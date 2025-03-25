@@ -1,0 +1,4 @@
+io.github.snyk:todolist-mvc:pom:0.0.1-SNAPSHOT
++- javax.xml.bind:jaxb-api:jar:2.3.0:compile
++- com.sun.xml.bind:jaxb-core:jar:2.3.0:compile
+\- com.sun.xml.bind:jaxb-impl:jar:2.3.0:compile
